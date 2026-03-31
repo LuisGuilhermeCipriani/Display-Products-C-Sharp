@@ -1,6 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
+using System.Globalization;
 
 namespace DisplayProducts.Entities
 {
@@ -18,12 +17,13 @@ namespace DisplayProducts.Entities
 
         public override string PriceTag()
         {
-            return base.PriceTag();
+            return Name + " $ " + TotalPrice().ToString("F2", CultureInfo.InvariantCulture) + 
+                " (Customs fee: $ " + CustomsFee.ToString("F2", CultureInfo.InvariantCulture) + ")";
         }
 
         public double TotalPrice()
         {
-
+            return Price + CustomsFee;
         }
     }
 }
