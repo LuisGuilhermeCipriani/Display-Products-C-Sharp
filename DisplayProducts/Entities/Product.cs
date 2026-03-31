@@ -18,7 +18,7 @@ namespace DisplayProducts.Entities
             Price = price;
         }
 
-        public string PriceTag()
+        public virtual string PriceTag()
         {
 
         }
