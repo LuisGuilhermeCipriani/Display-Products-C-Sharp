@@ -1,6 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
+using System.Globalization;
 
 namespace DisplayProducts.Entities
 {
@@ -20,7 +19,7 @@ namespace DisplayProducts.Entities
 
         public virtual string PriceTag()
         {
-
+            return Name + " $ " + Price.ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }
