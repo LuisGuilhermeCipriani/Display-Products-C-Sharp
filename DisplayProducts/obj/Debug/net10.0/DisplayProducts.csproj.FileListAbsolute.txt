@@ -1,0 +1,15 @@
+D:\Documentos\Programação\C#\Seção 9\ExercicioFixacao\DisplayProducts\DisplayProducts\bin\Debug\net10.0\DisplayProducts.exe
+D:\Documentos\Programação\C#\Seção 9\ExercicioFixacao\DisplayProducts\DisplayProducts\bin\Debug\net10.0\DisplayProducts.deps.json
+D:\Documentos\Programação\C#\Seção 9\ExercicioFixacao\DisplayProducts\DisplayProducts\bin\Debug\net10.0\DisplayProducts.runtimeconfig.json
+D:\Documentos\Programação\C#\Seção 9\ExercicioFixacao\DisplayProducts\DisplayProducts\bin\Debug\net10.0\DisplayProducts.dll
+D:\Documentos\Programação\C#\Seção 9\ExercicioFixacao\DisplayProducts\DisplayProducts\bin\Debug\net10.0\DisplayProducts.pdb
+D:\Documentos\Programação\C#\Seção 9\ExercicioFixacao\DisplayProducts\DisplayProducts\obj\Debug\net10.0\DisplayProducts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Programação\C#\Seção 9\ExercicioFixacao\DisplayProducts\DisplayProducts\obj\Debug\net10.0\DisplayProducts.AssemblyInfoInputs.cache
+D:\Documentos\Programação\C#\Seção 9\ExercicioFixacao\DisplayProducts\DisplayProducts\obj\Debug\net10.0\DisplayProducts.AssemblyInfo.cs
+D:\Documentos\Programação\C#\Seção 9\ExercicioFixacao\DisplayProducts\DisplayProducts\obj\Debug\net10.0\DisplayProducts.csproj.CoreCompileInputs.cache
+D:\Documentos\Programação\C#\Seção 9\ExercicioFixacao\DisplayProducts\DisplayProducts\obj\Debug\net10.0\DisplayProducts.sourcelink.json
+D:\Documentos\Programação\C#\Seção 9\ExercicioFixacao\DisplayProducts\DisplayProducts\obj\Debug\net10.0\DisplayProducts.dll
+D:\Documentos\Programação\C#\Seção 9\ExercicioFixacao\DisplayProducts\DisplayProducts\obj\Debug\net10.0\refint\DisplayProducts.dll
+D:\Documentos\Programação\C#\Seção 9\ExercicioFixacao\DisplayProducts\DisplayProducts\obj\Debug\net10.0\DisplayProducts.pdb
+D:\Documentos\Programação\C#\Seção 9\ExercicioFixacao\DisplayProducts\DisplayProducts\obj\Debug\net10.0\DisplayProducts.genruntimeconfig.cache
+D:\Documentos\Programação\C#\Seção 9\ExercicioFixacao\DisplayProducts\DisplayProducts\obj\Debug\net10.0\ref\DisplayProducts.dll

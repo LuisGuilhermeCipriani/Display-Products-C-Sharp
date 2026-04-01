@@ -10,9 +10,9 @@ namespace DisplayProducts.Entities
         public ImportedProduct()
         {}
 
-        public ImportedProduct(string name, double price, double customFee) : base(name, price)
+        public ImportedProduct(string name, double price, double customsFee) : base(name, price)
         {
-            CustomsFee = customFee;
+            CustomsFee = customsFee;
         }
 
         public override string PriceTag()
