@@ -17,7 +17,7 @@ namespace DisplayProducts
             {
                 Console.WriteLine("Product #" + i + " data:");
                 Console.Write("Common, used or imported (c/u/i)? ");
-                char escolha = char.Parse(Console.ReadLine().ToLower());
+                char option = char.Parse(Console.ReadLine().ToLower());
                 string name;
                 double price;
                 DateTime manufactureDate;
@@ -27,7 +27,7 @@ namespace DisplayProducts
 
                 while (!validOption)
                 {
-                    switch (escolha)
+                    switch (option)
                     {
                         case 'c':
                             Console.Write("Name: ");
@@ -59,7 +59,7 @@ namespace DisplayProducts
                             break;
                         default:
                             Console.Write("Por favor, digite uma opção válida (c/u/i): ");
-                            escolha = char.Parse(Console.ReadLine().ToLower());
+                            option = char.Parse(Console.ReadLine().ToLower());
                             break;
                     }
                 }
